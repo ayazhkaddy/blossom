@@ -2,18 +2,19 @@
 peaceful
 class Main(Frame):
     def __init__(self, root):
-        super(Main, self).__init__(root)
+        super(Main, Ayashka).__init__(grade)
         self.build()
 
     def build(self):
-        pass
+        wwooww
  
     def logicalc(self, operation):
         pass
 
     def update():
-       pass
-
+       oops
+otegenova
+18.11.22
 
 if __name__ == '__main__':
     root = Tk()
